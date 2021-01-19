@@ -6,7 +6,8 @@
   - Senior Project: `Tool for identifying On-hold Self-Admitted Technical Debt in GitHub projects.` This project will help the software practitioners maintaining high quality of software. With this tool, developers will get notification message to fix their code once the issues in the repository are solved. What a cool thing! 😄
   
 **🚀 What are my featured projects...❓**
-
+  - [QC management system](https://github.com/maijsp/wong-wai-vit) `HTML/CSS/JavaScript` `Basic React` `Firebase` `Next.js`
+  - [PenQuiz, an online quiz mobile application](https://github.com/maijsp/penquiz) `Kotlin` `Firebase`
   
 **🌱 What am I currently learning ...❓**
   - Advanced React Hooks, Redux, Next.js
@@ -28,5 +29,7 @@
 **😄 Pronouns: ...❓**
   - Mai (Mai or Ma-ai)
   
-**⚡ Fun fact: ...❓**
-  - I have varities of skills e.g., music for fun(piano, guitar, drums), design some website and mobile apps, 
+**⚡ Fun fact and interests ...❓**
+  - Play music for fun(piano, guitar, drums) whenever someone invited me 🎹
+  - Design some website and mobile apps 🎨
+  - I plan to write review and technology related articles in Medium.
