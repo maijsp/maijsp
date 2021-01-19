@@ -6,8 +6,9 @@
   - Senior Project: `Tool for identifying On-hold Self-Admitted Technical Debt in GitHub projects.` This project will help the software practitioners maintaining high quality of software. With this tool, developers will get notification message to fix their code once the issues in the repository are solved. What a cool thing! 😄
   
 **🚀 What are my featured projects...❓**
-  - [QC management system](https://github.com/maijsp/wong-wai-vit) `HTML/CSS/JavaScript` `Basic React` `Firebase` `Next.js`
-  - [PenQuiz, an online quiz mobile application](https://github.com/maijsp/penquiz) `Kotlin` `Firebase`
+  - [QC management system (Website)](https://github.com/maijsp/wong-wai-vit) `HTML/CSS/JavaScript` `Basic React` `Firebase` `Next.js`
+  - [PenQuiz, an online quiz application (Android Application)](https://github.com/maijsp/penquiz) `Kotlin` `Firebase`
+  - [Gemini Observatory System (Website)](https://github.com/maijsp/GeminiFive) `Spring Boot` `Java`
   
 **🌱 What am I currently learning ...❓**
   - Advanced React Hooks, Redux, Next.js
