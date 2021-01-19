@@ -1,6 +1,6 @@
 ![Hello World](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)
 
-## 🌈 Hi there,Profile Visitor 👋
+## 🌈 Hi there, Profile Visitors 👋
 
 **🔭 What am I currently working on ...❓**
   - Senior Project: `Tool for identifying On-hold Self-Admitted Technical Debt in GitHub projects.` This project will help the software practitioners maintaining high quality of software. With this tool, developers will get notification message to fix their code once the issues in the repository are solved. What a cool thing! 😄
