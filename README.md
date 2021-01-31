@@ -11,7 +11,7 @@
   - [Gemini Observatory System (Website)](https://github.com/maijsp/GeminiFive) `Spring Boot` `Java`
   
 **🌱 What am I currently learning ...❓**
-  - Advanced React Hooks, Redux, Next.js
+  - Online Course (Udemy, FutureSkill) about React Hooks, Redux, Next.js
   - Tailwind CSS
   - Mobile development: Flutter
   
