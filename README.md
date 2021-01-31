@@ -25,7 +25,7 @@
   
 **📫 How to reach me: ...❓**
   - Facebook: [Mai's Facebook](https://www.facebook.com/mungkung.mai/)
-  - E-Mail: [Mai's Email](mailto:saranphon.mai@gmail.com)
+  - E-Mail: [Mai's Email](mailto:saranphon.pha@gmail.com)
   
 **😄 Pronouns: ...❓**
   - Mai (Mai or Ma-ai)
